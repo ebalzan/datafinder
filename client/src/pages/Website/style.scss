@@ -52,10 +52,10 @@ div#page {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url(../../assets/slide-1.png);
+    background-image: url("../../assets/slide-1.png");
     background-size: cover;
     background-position: center;
-    transition: 2s;
+    transition: 1.5s;
     padding: 20px;
 
     div.bullets {
@@ -137,7 +137,7 @@ div#page {
   }
 
   section.quem-somos {
-    background-image: url(../../assets/fundo1.png);
+    background-image: url("../../assets/fundo1.png");
 
     div.title {
       align-items: flex-start;
@@ -151,7 +151,7 @@ div#page {
 
   section.padding2 {
     height: 60%;
-    background-image: url(../../assets/foto4.png);
+    background-image: url("../../assets/foto4.png");
 
     > h1 {
       font-size: 32px;
@@ -184,7 +184,7 @@ div#page {
 
   section.padding3 {
     height: 90%;
-    background-image: url(../../assets/fundo1.png);
+    background-image: url("../../assets/fundo1.png");
 
     div.title {
       padding: 40px 20px;
@@ -230,7 +230,7 @@ div#page {
   }
 
   section.padding4 {
-    background-image: url(../../assets/fundo2.png);
+    background-image: url("../../assets/fundo2.png");
 
     div.title {
       h1,
@@ -248,7 +248,7 @@ div#page {
 
   section.fale-conosco {
     height: 50%;
-    background-image: url(../../assets/fundo1.png);
+    background-image: url("../../assets/fundo1.png");
 
     div.title {
       width: 60%;
@@ -286,7 +286,7 @@ div#page {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../../assets/fundo2.png);
+    background-image: url("../../assets/fundo2.png");
     background-position: center;
     background-size: cover;
     font-family: "Montserrat", sans-serif;
